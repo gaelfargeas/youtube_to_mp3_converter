@@ -32,7 +32,7 @@ Linux :
 
 ![youtube to MP3 converter app](/img/YTMC.png)
 
-copy/paste a youtube URL in the test and press the button Convert.
+copy/paste a youtube URL in the textfield and press the button Convert.
 
 ## Library used :
 
